@@ -12,7 +12,7 @@ The pace of life here is slower and more relaxed,with people enjoying their time
 It's a city rich in history and culture,and I love its comfortable and easygoing atmosphere.
 
 ## About Hobbies
-In my free time, I love composing music and writing code.
+In my free time, I love composing music and coding.
 Music allows me to express my emotions and ideas creatively, while coding lets me solve problems and create something new.
 I find both of these hobbies rewarding in different ways, and they both require a lot of patience, practice, and imagination.
 
