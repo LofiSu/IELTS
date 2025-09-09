@@ -1,0 +1,1 @@
+resemble = similar = like 与...相似
